@@ -1,1 +1,1 @@
-Aprēķins
+Aprēķins + jauns labojums
